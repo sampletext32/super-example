@@ -3,5 +3,5 @@ let y = 0;
 
 function move() {
     x += 5;
-    x += 10;
+    y += 10;
 }
